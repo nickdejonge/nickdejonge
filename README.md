@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @nickdejonge
+- 👀 I’m interested in machine learning and neural networks
+- 🌱 I’m currently enrolled in a Master's of Computer Science program
+- 📫 I am able to be reached at my email ndejonge7@gmail.com
